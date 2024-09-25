@@ -17,4 +17,4 @@ public:
             }
         return (reverse==temp);    
     }    
-};
+}
